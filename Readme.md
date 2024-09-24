@@ -6,6 +6,7 @@
 | -- | -------------------- | -------- | ------------------------|
 | 1. | [Прогнозирование стоимости автомобилей на вторичном рынке (соревнования на Kaggle)](https://github.com/ekapopkova/Predict_car_price) | Разработка модели предсказания стоимости автомобиля на вторичном рынке | pandas, seaborn, matplotlib, sklearn, catboost |
 | 2. | [Решение задачи сопоставления и поиска наиболее похожих товаров](https://github.com/ekapopkova/Matching) | Разработка ML решения по задаче метчинга товаров | pandas, numpy, matplotlib, faiss, catboost, scikit-learn, joblib |
+| 3. | [Хакатон кормпании Ренью. Сортировка твердых бытовых отходов](https://github.com/ekapopkova/Tracking_object) | Разработка решения для отслеживания и сортировки мусора на конвейере – выделять пластиковые бутылки в общем потоке предметов, трекинг объектов | pandas, numpy, opencv, YOLO, Pillow, motmetrics, matplotlib, scikit-learn |
 
 ## Здесь собраны учебные проекты, выполненные в Яндекс Практикуме
 
